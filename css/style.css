@@ -31,7 +31,7 @@ body {
     padding: 30px;
     width: 400px;
     height: 410px;
-    background: radial-gradient(circle at top, hsl(215, 20%, 17%), hsl(215, 27%, 12%)); /*linear-gradient(0deg, hsl(215, 27%, 12%), hsl(215, 20%, 17%));^*/
+    background: radial-gradient(circle at top, hsl(215, 20%, 17%), hsl(215, 27%, 12%));
     border-radius: 28px;
 }
 
